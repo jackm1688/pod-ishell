@@ -9,3 +9,13 @@ select
 exec date 
 cli 
 exit
+help
+exit
+init
+select
+cl
+cli 
+clear
+exit
+help
+exit

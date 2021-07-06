@@ -1,4 +1,7 @@
 # pod-ishell(Pod shell interactive tool) <br/>
+feat: <br/>
+a.Set the size of the interactive window<br/>
+<br/>
 useage:<br/>
 ./podIshbell <br/>
 Commands:
