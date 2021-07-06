@@ -3,3 +3,9 @@ list
 exit
 init
 exit
+help
+init
+select
+exec date 
+cli 
+exit
